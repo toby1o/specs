@@ -90,3 +90,4 @@
   - [OP Contracts Manager](./experimental/op-contracts-manager.md)
   - [Governance Token](./experimental/gov-token.md)
 - [Glossary](./glossary.md)
+- [Getting Started with Vercel Web Analytics](./vercel-web-analytics.md)
